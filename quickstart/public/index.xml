@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First Hugo blog post</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-our-sample-hugo-site&#34;&gt;Welcome to Our Sample Hugo Site!&lt;/h1&gt;&#xA;&lt;p&gt;This website has been created as part of a training exercise to demonstrate the capabilities of Hugo, a fast and flexible static site generator.&lt;/p&gt;&#xA;&lt;p&gt;The content you see here is purely for demonstration purposes, giving you a clear understanding of what a Hugo-powered website can look like. Feel free to explore and discover how Hugo makes website creation efficient and enjoyable.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Happy exploring!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sample-image.png&#34; alt=&#34;sample-image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About our sample Hugo site</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
